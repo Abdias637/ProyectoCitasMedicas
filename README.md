@@ -4,7 +4,7 @@
 App móvil Flutter para agendar citas médicas locales, optimizando tiempos de espera y carga de trabajo.
 
 ## Status Badges
-![Build](https://github.com/TU_USUARIO/ProyectoCitasMedicas/actions/workflows/ci.yml/badge.svg)
+![Build](https://github.com/Abdias637/ProyectoCitasMedicas.git)
 
 ## Estructura del repositorio
 - `/.github/workflows/ci.yml`→ Pipelines de CI/CD
